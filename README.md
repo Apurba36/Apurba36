@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Apurba36
-- 👀 I’m interested in ...web devlopment
+- 👀 I’m interested in ...App devlopment
 - 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
